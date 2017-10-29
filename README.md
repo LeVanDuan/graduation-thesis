@@ -1,2 +1,2 @@
 # graduation-thesis
-Face recognition
+Retinal vessel blood segmentation
